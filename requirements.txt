@@ -1,0 +1,20 @@
+Requirements for AI Project 3 code:
+
+1) Install Python and Setup Python Environment
+
+2) Install following libraries using (in powershell or cmd window): pip install <library_name>
+	matplotlib
+	scipy
+	sklearn
+	numpy
+	torch
+	
+	Other libraries which are mostly in-built in Python:
+	random
+	math
+	collections
+	copy
+	heapq
+	time
+	multiprocessing
+	functools
